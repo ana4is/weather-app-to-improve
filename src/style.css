@@ -1,0 +1,26 @@
+.container {
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(253, 239, 132) 0%,
+    rgb(247, 198, 169) 54.2%,
+    rgb(21, 186, 196) 100.3%
+  );
+}
+.city {
+  padding-left: 60%;
+  right: 0;
+  top: 0;
+}
+p {
+  color: #a7bcb9;
+}
+h1 {
+  color: #455d7a;
+}
+h2 {
+  color: #455d7a;
+  padding-right: 20%;
+}
+ul {
+  padding-left: 60%;
+}
